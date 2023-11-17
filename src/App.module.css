@@ -1,0 +1,16 @@
+:global *,
+:global *::before,
+:global *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  margin-top: 100px;
+}
+
+:global body {
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 200px;
+}
