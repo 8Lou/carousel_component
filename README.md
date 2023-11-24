@@ -1,4 +1,3 @@
 This is a small job done on ReactJS.
 
-# https://github.com/8Lou/carousel_component/
-
+# https://8lou.github.io/carousel_component/
