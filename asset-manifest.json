@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/carousel_component/static/css/main.86e6348e.css",
+    "main.js": "/carousel_component/static/js/main.231e03c9.js",
+    "static/media/elephant.jpg": "/carousel_component/static/media/elephant.57b576e5b89a4d8ccfa3.jpg",
+    "static/media/life.jpg": "/carousel_component/static/media/life.2b8e2545f80a25166f84.jpg",
+    "static/media/gallery-2.png": "/carousel_component/static/media/gallery-2.33391da2532f4aabde91.png",
+    "static/media/gallery-7.png": "/carousel_component/static/media/gallery-7.5cb9bf705ce7c53898f9.png",
+    "static/media/gallery-1.png": "/carousel_component/static/media/gallery-1.f05e0298d05412090791.png",
+    "static/media/decorations.jpg": "/carousel_component/static/media/decorations.9cc9e98fd245c180d46e.jpg",
+    "static/media/gallery-3.png": "/carousel_component/static/media/gallery-3.798c6a725c47020949dc.png",
+    "static/media/gallery-5.png": "/carousel_component/static/media/gallery-5.a4a47a30f98bef5d8cf0.png",
+    "static/media/gallery-4.png": "/carousel_component/static/media/gallery-4.fe54fab0ad59c1c3d0e2.png",
+    "static/media/bench.jpg": "/carousel_component/static/media/bench.6203feaa75529a68a750.jpg",
+    "static/media/img1340.jpg": "/carousel_component/static/media/img1340.65e95ce123691928d9c2.jpg",
+    "static/media/img1300.jpg": "/carousel_component/static/media/img1300.d0ddd055f18f3a1b3179.jpg",
+    "static/media/img800.jpg": "/carousel_component/static/media/img800.4f5212cee2807e894a70.jpg",
+    "index.html": "/carousel_component/index.html",
+    "main.86e6348e.css.map": "/carousel_component/static/css/main.86e6348e.css.map",
+    "main.231e03c9.js.map": "/carousel_component/static/js/main.231e03c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e6348e.css",
+    "static/js/main.231e03c9.js"
+  ]
+}
