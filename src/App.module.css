@@ -6,13 +6,20 @@
   box-sizing: border-box;
 }
 
+h1 {
+  font-size: 3rem;
+  /* color: rgba(0, 0, 0, 0.5);   */
+  color: #fff;
+  text-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+}
+
 h2 {
   margin-top: 100px;
 }
 
 :global body {
   font-family: 'Roboto', sans-serif;
-  padding-bottom: 200px;
+  padding-bottom: 200px;  
 }
 
 .container {

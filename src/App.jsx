@@ -7,7 +7,7 @@ import { imagesLibrary, wideImages, squareImages } from './utils/carouselData';
 export const App = () => {
   return (
     <div className={styles.container}>
-      <h1>Carousel demo</h1>
+      <h1>Some of resource</h1>
       <div className={styles.wrapper}>
         <div className={styles.carouselContainerOne}>
           <Carousel images={wideImages}></Carousel>
